@@ -37,5 +37,5 @@ The time complexity of this function is O(n), where n is the length of the longe
 
 The space complexity of this function is O(1) or constant, assuming the character sets in both strings are limited. The dictionaries used have a fixed size based on the character set and do not grow significantly with the input string lengths.
 
-# 49. Group Anagrams
-* IsAnagram [https://neetcode.io/problems/is-anagram]
+### Related Problems
+* 49. Group Anagrams [https://neetcode.io/problems/is-anagram]
