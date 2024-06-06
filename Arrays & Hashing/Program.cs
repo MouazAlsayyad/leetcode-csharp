@@ -1,4 +1,5 @@
 ﻿using Arrays___Hashing.GroupAnagrams;
+using Arrays___Hashing.ProductOfArrayExceptSelf;
 using Arrays___Hashing.TopKFrequent;
 using Arrays___Hashing.TwoSum;
 
@@ -26,5 +27,5 @@ using Arrays___Hashing.TwoSum;
 // TopKFrequent
 // var topKFrequent = SolutionTopKFrequent.TopKFrequent([1, 1, 1, 2, 2, 3], 2);
 // Console.WriteLine($"[{string.Join(", ", topKFrequent)}]");
-
-
+var productOfArrayExceptSelf = SolutionProductOfArrayExceptSelf.ProductExceptSelf([1, 2, 3, 4]);
+Console.WriteLine($"[{string.Join(", ", productOfArrayExceptSelf)}]");

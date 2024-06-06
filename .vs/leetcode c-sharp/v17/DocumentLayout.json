@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|c:\\users\\mouaz\\source\\repos\\leetcode c-sharp\\arrays \u0026 hashing\\twosum\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|solutionrelative:arrays \u0026 hashing\\twosum\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|c:\\users\\mouaz\\source\\repos\\leetcode c-sharp\\arrays \u0026 hashing\\productofarrayexceptself\\solutionproductofarrayexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|solutionrelative:arrays \u0026 hashing\\productofarrayexceptself\\solutionproductofarrayexceptself.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|c:\\users\\mouaz\\source\\repos\\leetcode c-sharp\\arrays \u0026 hashing\\topkfrequent\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|solutionrelative:arrays \u0026 hashing\\topkfrequent\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|c:\\users\\mouaz\\source\\repos\\leetcode c-sharp\\arrays \u0026 hashing\\productofarrayexceptself\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|solutionrelative:arrays \u0026 hashing\\productofarrayexceptself\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|c:\\users\\mouaz\\source\\repos\\leetcode c-sharp\\arrays \u0026 hashing\\isanagram\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|solutionrelative:arrays \u0026 hashing\\isanagram\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|c:\\users\\mouaz\\source\\repos\\leetcode c-sharp\\arrays \u0026 hashing\\groupanagrams\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|solutionrelative:arrays \u0026 hashing\\groupanagrams\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|c:\\users\\mouaz\\source\\repos\\leetcode c-sharp\\arrays \u0026 hashing\\containsduplicate\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|solutionrelative:arrays \u0026 hashing\\containsduplicate\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|c:\\users\\mouaz\\source\\repos\\leetcode c-sharp\\arrays \u0026 hashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F529CB-579E-4C2B-B305-7A50E9337696}|Arrays \u0026 Hashing\\Arrays \u0026 Hashing.csproj|solutionrelative:arrays \u0026 hashing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\TwoSum\\README.md",
-              "RelativeDocumentMoniker": "Arrays \u0026 Hashing\\TwoSum\\README.md",
-              "ToolTip": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\TwoSum\\README.md",
-              "RelativeToolTip": "Arrays \u0026 Hashing\\TwoSum\\README.md",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T21:45:33.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\TopKFrequent\\README.md",
-              "RelativeDocumentMoniker": "Arrays \u0026 Hashing\\TopKFrequent\\README.md",
-              "ToolTip": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\TopKFrequent\\README.md",
-              "RelativeToolTip": "Arrays \u0026 Hashing\\TopKFrequent\\README.md",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\ProductOfArrayExceptSelf\\README.md",
+              "RelativeDocumentMoniker": "Arrays \u0026 Hashing\\ProductOfArrayExceptSelf\\README.md",
+              "ToolTip": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\ProductOfArrayExceptSelf\\README.md",
+              "RelativeToolTip": "Arrays \u0026 Hashing\\ProductOfArrayExceptSelf\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T21:45:26.607Z",
+              "WhenOpened": "2024-06-06T18:39:02.858Z",
               "EditorCaption": ""
             },
             {
@@ -74,35 +57,35 @@
               "RelativeDocumentMoniker": "Arrays \u0026 Hashing\\IsAnagram\\README.md",
               "ToolTip": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\IsAnagram\\README.md",
               "RelativeToolTip": "Arrays \u0026 Hashing\\IsAnagram\\README.md",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T21:45:22.684Z",
+              "WhenOpened": "2024-06-06T18:36:29.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\GroupAnagrams\\README.md",
-              "RelativeDocumentMoniker": "Arrays \u0026 Hashing\\GroupAnagrams\\README.md",
-              "ToolTip": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\GroupAnagrams\\README.md",
-              "RelativeToolTip": "Arrays \u0026 Hashing\\GroupAnagrams\\README.md",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T21:45:19.489Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays \u0026 Hashing\\Program.cs",
+              "ToolTip": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\Program.cs",
+              "RelativeToolTip": "Arrays \u0026 Hashing\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:22:35.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\ContainsDuplicate\\README.md",
-              "RelativeDocumentMoniker": "Arrays \u0026 Hashing\\ContainsDuplicate\\README.md",
-              "ToolTip": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\ContainsDuplicate\\README.md",
-              "RelativeToolTip": "Arrays \u0026 Hashing\\ContainsDuplicate\\README.md",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-06-05T21:45:15.793Z",
+              "DocumentIndex": 0,
+              "Title": "SolutionProductOfArrayExceptSelf.cs",
+              "DocumentMoniker": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\ProductOfArrayExceptSelf\\SolutionProductOfArrayExceptSelf.cs",
+              "RelativeDocumentMoniker": "Arrays \u0026 Hashing\\ProductOfArrayExceptSelf\\SolutionProductOfArrayExceptSelf.cs",
+              "ToolTip": "C:\\Users\\mouaz\\source\\repos\\leetcode c-sharp\\Arrays \u0026 Hashing\\ProductOfArrayExceptSelf\\SolutionProductOfArrayExceptSelf.cs",
+              "RelativeToolTip": "Arrays \u0026 Hashing\\ProductOfArrayExceptSelf\\SolutionProductOfArrayExceptSelf.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:14:21.774Z",
               "EditorCaption": ""
             }
           ]
